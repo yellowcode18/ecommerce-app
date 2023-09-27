@@ -1,0 +1,15 @@
+*-----Ecommerce Project-----*
+
+Installed Packages :
+1. npm i sass
+2. npm i react-slick
+3. npm install react-redux
+4. npm install react-router-dom
+5. npm install slick-carousel
+6. npm i @reduxjs/toolkit
+
+Pre-Procedures :
+1. Create needed folders inside "src" (assets, components, pages, store, utils)
+2. Create JS & SCSS files inside created folders
+3. Configure "src/App.js" & "src/App.scss" files
+4. Link Font-awesome url in "public/index.html" file (line 14)
