@@ -14,4 +14,4 @@ Pre-Procedures :
 3. Configure "src/App.js" & "src/App.scss" files
 4. Link Font-awesome url in "public/index.html" file (line 14)
 
-Note: Install "node_modules" and run app with "npm start" command.
+Note: Install node_modules by "npm i node-modules" command and run app with "npm start" command.
